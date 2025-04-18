@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="32px" height="32px" viewBox="0 0 32 32" version="1.1" xmlns="http://www.w3.org/2000/svg">
+    <title>Bus Rental</title>
+    <g fill="#2C3E50" stroke="none">
+        <path d="M4,24h24V8c0-2.2-1.8-4-4-4H8C5.8,4,4,5.8,4,8V24z M8,6h16c1.1,0,2,0.9,2,2v12H6V8C6,6.9,6.9,6,8,6z"/>
+        <circle cx="9" cy="25" r="3"/>
+        <circle cx="23" cy="25" r="3"/>
+        <rect x="8" cy="12" width="4" height="4"/>
+        <rect x="14" cy="12" width="4" height="4"/>
+        <rect x="20" cy="12" width="4" height="4"/>
+    </g>
+</svg> 
